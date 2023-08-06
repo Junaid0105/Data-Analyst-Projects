@@ -1,7 +1,8 @@
 # Amazon-Sales-Data-Analysis
 ### Project Owerview
 The goal of this project is to perform a comprehensive analysis of Amazon sales data to gain insights into revenue, sales trends, and product performance. Power BI will be used as the primary tool for data visualization and exploration.
-![Amazon Dashboard](https://github.com/Junaid0105/Amazon-Sales-Data-Analysis/assets/57451341/80bbe522-8e70-4359-87fe-56e92387a9fc)
+![Amazon Dashboard](https://github.com/Junaid0105/Data-Analyst-Portfolio/assets/57451341/e1631755-b094-47fd-aef4-146a09e4d919)
+
 
 
 
