@@ -2,6 +2,7 @@
 
 ## Project Overview
 The project involves acquiring COVID-19 deaths data from reliable sources, cleaning and preparing the data, setting up an SQL database for efficient storage and retrieval, performing data analysis using SQL queries, and creating interactive visualizations using Tableau.
+![covid19_report](https://github.com/Junaid0105/Data-Analyst-Projects/assets/57451341/0a11456e-6ed5-43f2-a91d-feb9494c497c)
 
 ## Data Sources
 For this project, the COVID-19 deaths data can be obtained from reputable sources such as:
