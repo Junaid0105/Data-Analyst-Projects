@@ -1,6 +1,6 @@
 
 
-#sales Insights Project
+# sales Insights Project
 
 **Objective:** To provide actionable insights into sales performance, trends, and opportunities through interactive dashboards and data analysis.
 
