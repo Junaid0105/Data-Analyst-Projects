@@ -1,8 +1,7 @@
 
 
 # sales Insights Project
-![Uploading sales_insights_page-0001.jpg…]()
-![https://github.com/Junaid0105/Data-Analyst-Projects/blob/main/Sales%20Insights%20Projects/sales_insights_page-0001.jpg]()
+
 **Objective:** To provide actionable insights into sales performance, trends, and opportunities through interactive dashboards and data analysis.
 
 **Data Integration:** SQL is used to extract, transform, and load (ETL) sales data from various sources, ensuring accurate and comprehensive data for analysis.
