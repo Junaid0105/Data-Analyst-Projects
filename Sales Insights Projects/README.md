@@ -1,6 +1,7 @@
 
 
 # sales Insights Project
+![sales_insights_dashboard](https://github.com/Junaid0105/Data-Analyst-Projects/blob/main/Sales%20Insights%20Projects/sales_insights_page-0001.jpg)
 
 **Objective:** To provide actionable insights into sales performance, trends, and opportunities through interactive dashboards and data analysis.
 
