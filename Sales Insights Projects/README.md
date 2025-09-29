@@ -1,6 +1,7 @@
 
 
 # sales Insights Project
+![Uploading sales_insights_page-0001.jpg…]()
 
 **Objective:** To provide actionable insights into sales performance, trends, and opportunities through interactive dashboards and data analysis.
 
